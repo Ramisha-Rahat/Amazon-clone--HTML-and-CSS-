@@ -1,0 +1,17 @@
+.multi-sec{
+    height: 400px;
+    background-color: white;
+    display: flex;
+    
+
+}
+.boxs1{
+    border: 3px solid black;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5px ;
+}
+.boxs1 img{
+ border: 2px solid black;
+ margin-left: 15px;
+}
